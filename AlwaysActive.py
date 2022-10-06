@@ -1,4 +1,3 @@
-import time
 import pyautogui
 pyautogui.FAILSAFE = False
 while True:
